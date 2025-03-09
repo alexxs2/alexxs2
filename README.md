@@ -28,10 +28,3 @@ Atualmente tenho 22 anos e sou estudante de CiÃªncia de Dados com foco em estatÃ
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexxs2&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=alexxs2&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=alexxs2&repo=trilha-python-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/trilha-python-dio)
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=alexxs2&repo=package-template&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexxs2/package-template)
